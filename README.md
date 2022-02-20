@@ -19,6 +19,6 @@ Project Contributors: Haitham Eliyas, Nooh Al Balushi
 
 Project Supervisors: Dr Joseph Mani, Dr Vijaya Padmanabha 
 
-This was a final project for our Computer Science Bachelor's Degree in Modern College of Business and Science. 
+This was a final project for our Computer Science Bachelor's Degree in The Modern College of Business and Science. 
 
 For more details, please look at the Project Report
